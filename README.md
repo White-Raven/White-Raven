@@ -26,7 +26,7 @@ I'm also artsy on the side, but that's not the place.
 <a href="https://github.com/White-Raven/PowerEdge-shutup">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=White-Raven&repo=PowerEdge-shutup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/White-Raven/PowerEdge-IPMItool">
+<a href="https://github.com/White-Raven/PowerEdge-IPMItools">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=White-Raven&repo=PowerEdge-IPMItools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!---
