@@ -5,7 +5,7 @@ You can find my on my tech-related <a href="https://www.reddit.com/user/Achromat
 From the activites I will mention here and there, I do a fair bit of webdev, front-end and back-end, but most of it is kept behind blinds in private repos.
 Mainly having my fun with PHP, since I basically took a ~9 years hiatus in webdev, so haven't touched any of the node.js laravel react angular stuff.
 
-I think MYSQL is barbaric because I'm yelling at the console window.
+I think SQL is barbaric because I'm yelling at the console window.
 
 I have also my history with C++/C, VBScript, Lua, and I don't know why but I have a love-hate feeling toward Python.
 
