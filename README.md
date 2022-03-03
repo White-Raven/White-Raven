@@ -2,7 +2,7 @@
 
 I go by a fair amount of different names online, since some activities aren't really fitting to be mentionned in some community groups.
 
-You can find my on my tech-related <a href="https://www.reddit.com/user/Achromatic_Raven/" target="blank">reddit account</a> where I mainly just hover around the homelab community.
+You can find me on my tech-related <a href="https://www.reddit.com/user/Achromatic_Raven/" target="blank">reddit account</a> where I mainly just hover around the homelab community.
 
 From the activites I will mention here and there, I do a fair bit of webdev, front-end and back-end, but most of it is kept behind blinds in private repos.
 Mainly having my fun with PHP, since I basically took a ~9 years hiatus in webdev, so haven't touched any of the node.js laravel react angular stuff.
