@@ -1,4 +1,4 @@
-# Hello people!👋
+# Hello people!
 
 I go by a fair amount of different names online, since some activities aren't really fitting to be mentionned in some community groups.
 
